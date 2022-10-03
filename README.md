@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @blglenn-sec
 - 👀 I’m interested in security, AWS, and general infrastructure/cloud deployments. 
-- 🌱 I’m currently learning GoLang, and expanding general security knowldge.
+- 🌱 I’m currently learning Rust and Kotlin, and expanding general security knowldge.
 - 💞️ I’m looking to collaborate on cloud security projects.
 - 📫 How to reach me: here for now.
 
